@@ -55,6 +55,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 - to learn how to use navigation: learn.coderslang.com/0110-how-to-create-multiple-pages-in-html/
 - opening links in a new tab: freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
+- to learn how to use html forms: developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
