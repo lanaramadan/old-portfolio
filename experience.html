@@ -10,11 +10,81 @@ EMAIL: lramadan@uci.edu
   <meta charset="utf-8">
   <meta name="author" content="Your name here">
   <meta name="description" content="description of your page">
+
+  <link rel="stylesheet" href="./style.css" />
+
    <!-- you would link to an external stylesheet here! -->
    <!-- you would also link to Bootstrap here! -->
   <title>Experience - Lana Ramadan</title>
 </head>
+
 <body>
+    <nav class="navigation">
+        <a href="./index.html" class="nav-button">// home</a>
+        <!-- <a href="#expertise" class="nav-button">// expertise</a> -->
+        <a href="./work.html" class="nav-button">// work</a>
+        <a href="./experience.html" class="nav-button">// experience</a>
+        <a href="./about.html" class="nav-button">// about</a>
+    </nav>
+
+    <div class="experience-content">
+        <button type="button" class="collapsible">Website Developer @ UCI CanSat</button>
+        <div class="collapsible-content">
+          <p>
+            <ul>
+                <li>
+                    Spearheaded a redesign of the UCI CanSat website, enhancing its visual appeal, user experience, and functionality
+                </li>
+                <li>
+                    Collaborated closely with cross-functional teams to gather requirements, incorporate feedback, and ensure seamless integration of website enhancements, contributing to an improved online presence for UCI CanSat
+                </li>
+            </ul>
+          </p>
+        </div>
+
+        <button type="button" class="collapsible">Software Developer @ Commit the Change</button>
+        <div class="collapsible-content">
+          <p>
+            <ul>
+                <li>
+                    Coordinated with developers and designers to streamline the planning and scheduling processes for Achievement Institute for STEM Scholars, a college-readiness program for disadvantaged students pursuing STEM education                </li>
+                <li>
+                    Leveraged React, Express, and SQL to help manage students, resulting in improved scheduling and communication                </li>
+            </ul>
+          </p>
+        </div>
+
+        <button type="button" class="collapsible">Lab Learning Assistant @ Donald Bren School</button>
+        <div class="collapsible-content">
+          <p>
+            <ul>
+                <li>
+                    Conducted engaging lab sessions, fostering a learning atmosphere for more than 40 programming students                </li>
+                <li>
+                    Offered individualized coding and debugging assistance to students, demonstrating examples of well-written code                </li>
+            </ul>
+          </p>
+        </div>
+
+
+    </div>
   
+    <!-- <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            }
+            else {
+            content.style.display = "block";
+            }
+        });
+        }
+    </script> -->
 </body>
 </html>
