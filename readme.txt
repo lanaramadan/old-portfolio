@@ -40,10 +40,9 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (c) Advanced features
 - Creating a more complex page layout, such as including a sidebar or navigation bar
+- Leveraging nested selectors to specify format
 
-[~] Creating a table with multiple columns and rows which can be read via a screen reader
-[] Embedded HTML5 media, like video or audio, with fallbacks
-[] Leveraging nested selectors to specify format
+
 [~] A contact form which leverages HTML forms
 
 
