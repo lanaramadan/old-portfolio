@@ -25,16 +25,16 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 [~] At least one image, with descriptive alt attribute(s)
 [~] Appropriate headings and paragraph text
 [] Links to external page(s)
-[~] Multiple pages, with appropriate navigation between them
+[x] Multiple pages, with appropriate navigation between them
 [] Semantic HTML tags like aside or footer
 [] Adding custom icons from Google Material Icons or Font Awesome
 
 
 (b) CSS features
-[~] Modifying padding and margins to indent content and enhance readability
-[~] Modifying link, text color, or other colors to be visually appealing, perhaps with one of the pallette creators in the Resources section.
+[x] Modifying padding and margins to indent content and enhance readability
+[x] Modifying link, text color, or other colors to be visually appealing, perhaps with one of the pallette creators in the Resources section.
 [] Leveraging Bootstrap CSS helpers such as image shapes and table layouts to display content in a more interesting manner
-[~] Adding custom font(s) from Google fonts to add more personality (make sure to include appropriate fallbacks)
+[x] Adding custom font(s) from Google fonts to add more personality (make sure to include appropriate fallbacks)
 
 
 (c) Advanced features
