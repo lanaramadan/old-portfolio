@@ -40,15 +40,16 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. How long, in hours, did it take you to complete this assignment?
-- 3:15 pm - 4:45 pm
-- 6:30 pm - 10:00 pm
+8
+-7:30pm
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-- to learn how to use navigation: learn.coderslang.com/0110-how-to-create-multiple-pages-in-html/
-- opening links in a new tab: freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
-- to learn how to use html forms: developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
-- how to use forms with bootstrap
+- to learn how to use navigation: https://learn.coderslang.com/0110-how-to-create-multiple-pages-in-html/ 
+- opening links in a new tab: https://freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/ 
+- to learn how to use html forms: https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form 
+- how to make responsive websites: https://www.w3schools.com/css/css_rwd_viewport.asp and https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+- moving background: https://codepen.io/P1N2O/pen/pyBNzX
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 No one :)
