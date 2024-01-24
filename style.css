@@ -238,6 +238,7 @@ body {
 }
 
 .project-name {
+    text-decoration: none;
     font-family: Work Sans, sans-serif;
     font-size: 1.3em;
     font-style: normal;
@@ -476,7 +477,6 @@ body {
     font-weight: 400;
     line-height: normal;
     color: white;
-    text-decoration: none;
 }
 
 .link:hover {
