@@ -8,16 +8,17 @@ While learning from examples is encouraged, attempting to pass an existing proje
 
 Talking to classmates about class material, assignment requirements, etc. is a great way to verify ideas and get feedback. But this distinctly does *not* permit attempting to pass off someone else’s code as your own. Talking over ideas and approaches is allowed, but the work that you produce and submit must be your own.
 
-1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
+1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 */13
 - 1/1 Readme
 - 1/2 Basic HTML content
 - 1/2 Basic CSS styling
 - 1/2 Advanced feature
-- */3 Responsive layout
+- 3/3 Responsive layout
 - */1 Passes validation checks
 - 2/2 Embraces spirit of the assignment
+
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
@@ -27,21 +28,19 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - Links to external page(s)
 - Multiple pages, with appropriate navigation between them
 
-
 (b) CSS features
 - Modifying padding and margins to indent content and enhance readability
 - Modifying link, text color, or other colors to be visually appealing, perhaps with one of the pallette creators in the Resources section.
 - Adding custom font(s) from Google fonts to add more personality (make sure to include appropriate fallbacks)
 
-
 (c) Advanced features
 - Creating a more complex page layout, such as including a sidebar or navigation bar
+- Leveraging nested selectors to specify format
 - A contact form which leverages HTML forms
 
 
 3. How long, in hours, did it take you to complete this assignment?
-8
--7:30pm
+10 Hours
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
@@ -51,8 +50,10 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - how to make responsive websites: https://www.w3schools.com/css/css_rwd_viewport.asp and https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 - moving background: https://codepen.io/P1N2O/pen/pyBNzX
 
+
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 No one :)
+
 
 6. Is there anything special we need to know in order to run your code?
 Nope!

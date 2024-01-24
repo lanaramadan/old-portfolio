@@ -191,25 +191,23 @@ body {
 
 @media screen and (min-width: 0) and (max-width: 650px) {  
     /* small + medium screens */
-
+    .work-content {
+        margin-top: 5em;
+        margin-bottom: 5em;
+    }
     .projects {
         width: 79.5vw;
         height: 80vh;
-        top: 0%;
-        /* overflow-y: auto; */
-        position: sticky;
-        /* transform: translateY(100%); */
+        transform: translateY(30%);
         gap: 3em;
         display: flex;
         flex-direction: column;
         justify-content: center;
-        /* align-items: center; */
-        margin-top: 40em;
-        margin-bottom: 15em;
+        align-items: center;
     }
 }
 
-/* @media screen and (max-width: 640px) {    
+@media screen and (max-width: 640px) {    
     /* small screens */
 
     .subheader {
@@ -219,7 +217,7 @@ body {
     .sub-subheader {
         font-size: medium;
     }
-} */
+}
 
 
 .project-link {
